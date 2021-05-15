@@ -1,14 +1,22 @@
 ### Hi there 👋
 
  My name is Mateus Malvezzi
-+ I study Internet Systems and in parallel to that I study other content focused on the Front End to get an internship or even a Junior vacancy.  
-+ 📌Living in Palmas, 🇧🇷
-+  Studying internet systems in college
-+  Programming skills
-+      📍 Html
-+      📍 Css
-+      📍 JavaScript
-+ Fascinated by the world of FrontEnd, problem solving and the passionate look of the customer when viewing your page.
+ 
+ I study Internet Systems and in parallel to that I study other content focused on the Front End to get an internship or even a Junior vacancy.  
+ 
+ 📌Living in Palmas, 🇧🇷
+ 
+  Studying internet systems in college
+  
+  Programming skills
+  
+      📍 Html
+      
+      📍 Css
+      
+      📍 JavaScript
+      
+ Fascinated by the world of FrontEnd, problem solving and the passionate look of the customer when viewing your page.
 
 + Find me on 👇🏻
 
