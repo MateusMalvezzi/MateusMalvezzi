@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**MateusMalvezzi/MateusMalvezzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mateus Malvezzi
+I study Internet Systems and in parallel to that I study other content focused on the Front End to get an internship or even a Junior vacancy.  
+📌Living in Palmas, 🇧🇷
+-> Studying internet systems in college
+-> Programming skills
+      📍 Html
+      📍 Css
+      📍 JavaScript
+Fascinated by the world of FrontEnd, problem solving and the passionate look of the customer when viewing your page.
 
-Here are some ideas to get you started:
+Find me on 👇🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-malvezzi-1a0913181/)](https://www.linkedin.com/in/mateus-malvezzi-1a0913181/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateusmalvezzi/)](https://www.instagram.com/mateusmalvezzi/)
