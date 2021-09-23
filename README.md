@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- My name is Mateus Rodrigues
+ My name is Mateus M Rodrigues
  
  I study Internet Systems and in parallel to that I study other content focused on the Front End to get an internship or even a Junior vacancy.  
  
@@ -15,6 +15,8 @@
       📍 Css
       
       📍 JavaScript
+      
+      📍Vue
       
  Fascinated by the world of FrontEnd, problem solving and the passionate look of the customer when viewing your page.
 
