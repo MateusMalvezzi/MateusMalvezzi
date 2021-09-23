@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- My name is Mateus Malvezzi
+ My name is Mateus Rodrigues
  
  I study Internet Systems and in parallel to that I study other content focused on the Front End to get an internship or even a Junior vacancy.  
  
