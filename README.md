@@ -16,7 +16,6 @@
       
       📍 JavaScript
       
-      📍Vue
       
  Fascinated by the world of FrontEnd, problem solving and the passionate look of the customer when viewing your page.
 
