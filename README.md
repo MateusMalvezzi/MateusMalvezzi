@@ -21,4 +21,6 @@
 
 + Find me on 👇🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-malvezzi-1a0913181/)](https://www.linkedin.com/in/mateus-malvezzi-1a0913181/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateusmalvezzi/)](https://www.instagram.com/mateusmalvezzi/)
+📌 mateusmalvezzir@hotmail.com
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-malvezzi-1a0913181/)](https://www.linkedin.com/in/mateus-m-rodrigues-1a0913181/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateusmalvezzi/)](https://www.instagram.com/mateusmalvezzi/)
