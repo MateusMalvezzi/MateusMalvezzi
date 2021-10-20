@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hello, Folks! I'm Mateus Malvezzi ✌️
 
- My name is Mateus M Rodrigues
  
- I study Internet Systems and in parallel to that I study other content focused on the Front End to get an internship or even a Junior vacancy.  
+ 📚 I study Internet Systems
  
+ 💻 I'm studying to be a Front End specialist focused on react, looking for positions for Front Junior.
+
  📌Living in Palmas, 🇧🇷
  
-  Studying internet systems in college
   
   Programming skills
   
@@ -17,10 +17,10 @@
       📍 JavaScript
       
       
- Fascinated by the world of FrontEnd, problem solving and the passionate look of the customer when viewing your page.
-
+ Fascinated by the world of FrontEnd, problem solving and the passionate look of the customer when viewing the website.
+ 
 + Find me on 👇🏻
 
 📌 mateusmalvezzir@hotmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-malvezzi-1a0913181/)](https://www.linkedin.com/in/mateus-m-rodrigues-1a0913181/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateusmalvezzi/)](https://www.instagram.com/mateusmalvezzi/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-malvezzi-1a0913181/)](https://www.linkedin.com/in/mateusmrodrigues/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateusmalvezzi/)](https://www.instagram.com/mateusmalvezzi/)
