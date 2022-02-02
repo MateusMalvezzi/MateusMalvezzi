@@ -3,7 +3,7 @@
  
  📚 I study Internet Systems
  
- 💻 I'm studying to be a Front End specialist focused on react.
+ 💻 I'm studying to be a Front End specialist focused on React.js.
 
  📌Living in Palmas, 🇧🇷
  
