@@ -3,7 +3,7 @@
  
  📚 I study Internet Systems
  
- 💻 I'm studying to be a Front End specialist focused on react, looking for positions for Front Junior.
+ 💻 I'm studying to be a Front End specialist focused on react.
 
  📌Living in Palmas, 🇧🇷
  
@@ -15,6 +15,8 @@
       📍 Css
       
       📍 JavaScript
+      
+      📍 React.js
       
       
  Fascinated by the world of FrontEnd, problem solving and the passionate look of the customer when viewing the website.
