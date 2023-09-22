@@ -1,7 +1,6 @@
 ### Hello, Folks! I'm Mateus Malvezzi ✌️
 
- 
- 📚 I study Internet Systems
+  I have dual citizenship, Portuguese and Brazilian.
  
  💻 Highly motivated and focused professional, I use the power of data to contribute to the growth of a company.
 
@@ -10,19 +9,19 @@
    We can talk in Portuguese or English.
 
    I've had experience with:
-   - Python
-   - SQL
-   - PowerBI
-   - ETL
-   - DAX
-   - HTML, CSS and JavaScript
-   - Code versioning: Git/GitHub and GitLab
-   - Adobe Analytics / Data Collection
-   - Adobe Data Collection
-   - Google Analytics / Tag Manager
+   - SQL.
+   - PowerBI.
+   - Python.
+   - ETL.
+   - DAX.
+   - HTML, CSS and JavaScript.
+   - Code versioning: Git/GitHub and GitLab.
+   - Adobe Analytics.
+   - Adobe Target.
+   - Google Analytics / Tag Manager.
 
 
- 📌Living in Palmas, 🇧🇷
+ 📌 Currently based in Palmas 🇧🇷 and open to opportunities across different states or countries.
  
  
 
@@ -34,4 +33,3 @@
 
 [![MateusMalvezzi](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMalvezzi&hide=html&layout=compact&theme=default)](https://www.linkedin.com/in/mateusmrodrigues/?locale=en_US)
 
-[![card](https://github-readme-stats.vercel.app/api?username=MateusMalvezzi&theme=default)](https://www.linkedin.com/in/mateusmrodrigues/?locale=en_US)
