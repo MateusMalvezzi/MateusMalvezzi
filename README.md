@@ -19,16 +19,20 @@ Main Tools:
 <br><br>
 
 
- 📌 Currently based in Palmas 🇧🇷 and open to opportunities across different states or countries.
+ 📌 Currently based in Maringá 🇧🇷 and open to opportunities across different states or countries. <br><br>
  
  
 
 + Find me on 👇🏻
 
-📌 mateusmalvezzir@hotmail.com
+<a href="https://sites.google.com/view/mateusmalvezzi/p%C3%A1gina-inicial" target="_blank">Site / Portfolio</a> <br><br>
+📌 mateusmalvezzir@hotmail.com <br><br>
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-malvezzi-1a0913181/)](https://www.linkedin.com/in/mateusmrodrigues/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateusmalvezzi/)](https://www.instagram.com/mateusmalvezzi/)
+
 
 [![MateusMalvezzi](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMalvezzi&hide=html,css&layout=compact&theme=default)](https://www.linkedin.com/in/mateusmrodrigues/?locale=en_US)
 
