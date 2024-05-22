@@ -19,7 +19,7 @@ Main Tools:
 <br><br>
 
 
- 📌 Currently based in Maringá 🇧🇷 and open to opportunities across different states or countries. <br><br>
+ 📌 Currently based in Curitiba 🇧🇷 and open to opportunities across different states or countries. <br><br>
  
  
 
@@ -30,7 +30,7 @@ Main Tools:
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-malvezzi-1a0913181/)](https://www.linkedin.com/in/mateusmrodrigues/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-malvezzi-1a0913181/)](linkedin.com/in/mateusmalvezzi) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mateusmalvezzi/)](https://www.instagram.com/mateusmalvezzi/)
 
 
