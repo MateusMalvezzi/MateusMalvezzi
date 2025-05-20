@@ -11,9 +11,9 @@ We can chat in **Portuguese** or **English**.
 
 ### 🛠️ Main Tools
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL Server" height="45" width="80" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
-  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 </div>
 
 <br><br>
